@@ -1,4 +1,4 @@
-# Radar-Detector-System
+# Radar Detector System - Digital Computer Structure - Final Project
  Radar Detector System - Digital Computer Structure - Final Project
  
  •	Design and implementation of an MCU-based radar system for monitoring and detecting objects in space using an ultrasonic odometer and Servo motor.
