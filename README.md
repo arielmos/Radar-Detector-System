@@ -1,6 +1,4 @@
 # Radar Detector System - Digital Computer Structure - Final Project
- Radar Detector System - Digital Computer Structure - Final Project
- 
  •	Design and implementation of an MCU-based radar system for monitoring and detecting objects in space using an ultrasonic odometer and Servo motor.
  The space scan performs in a 180-degree section using Servo motor movement, the measuring range using the odometer ranges from 2M-4.5M.
  The angular motion control of a servo motor is PWM based.
